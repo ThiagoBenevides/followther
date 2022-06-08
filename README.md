@@ -21,5 +21,5 @@
 
 <strong>Sistema escrito em Django 🏗️</strong>(em construção)
 <br>
-<a href= "https://github.com/ThiagoBenevides/django"> Repositório do django<strong</a>
-  <p> Neste repositório encomtra-se os arquivos para a parte do sistema Next Dimension em Django</p>
+<a href= "https://github.com/ThiagoBenevides/django"> Repositório do django</a>
+<p> Neste repositório encomtra-se os arquivos para a parte do sistema Next Dimension em Django</p>
