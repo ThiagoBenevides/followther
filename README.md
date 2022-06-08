@@ -6,14 +6,10 @@ O canal follow the R tem como principal objetivo difundir o conhecimento nas ár
 * Deep Learning
 * Programação em python
 
-Então, se você deseja ser um follower você pode começar fazendo um fork no manifesto coelho branco nestá página deste modo você se compromete a compartilhar o seu conhecimento com os demais membros.
+Então, se você deseja fazer parte deste movimento peço a você gentilmente que crie um read.me no seu repositório copie e cole a frase do coelho branco. Isso fará com que outras pessoas o reconheçam como um follower e assim saber que conseguirá encontrar conhecimento dentro do seu github.
 
+Sejam todos bem vindos e bem vindas e vamos divulgar conhecimento.
 
-## Mas por que devo fazer o fork do manifesto?
-
-Simples, quando as pessoas lerem o manifesto no seu GitHub saberam que você é um follower também e deste modo saberam que no seu repositorio encontraram conhecimento.
-
-
-# Manifesto do coelho branco
+# Coelho Branco diz:
 
 O conhecimento nos une, o conhecimento nos torna humanos, o conhecimento nos modifica. Porém, para que o conhecimento seja realmente transformador ele deve ser transmitido para todos de forma gratuita e livre.
