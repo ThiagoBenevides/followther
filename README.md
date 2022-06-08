@@ -14,7 +14,12 @@
 
 <p>O projeto Next Dimension consiste em um algoritmo de visão computacional para detectar expressões faciais e identificar a emoção destas expressões em casas de shows. Para isso utilizaremos a linguagem python e o tensorflow para fazer a parte de visão computacional e o django para integrar o sistema da casa de espetáculo.</p>
 
-<strong>Repositório de visão computacional</strong>
+<strong>Repositório de visão computacional 🏁</strong>(finalizado)
 <br>
 <a href="https://github.com/ThiagoBenevides/computer-vision">Repositório computer vision</a>
 <p>Neste repositório encontram-se os arquivos para a parte de visão computacional e detecçao de imagens com OpenCV e o reconhecimento de expreções faciais utilizando o tensorflow 2.x</p>
+
+<strong>Sistema escrito em Django 🏗️</strong>(em construção)
+<br>
+<a href= "https://github.com/ThiagoBenevides/django"> Repositório do django<strong</a>
+  <p> Neste repositório encomtra-se os arquivos para a parte do sistema Next Dimension em Django</p>
